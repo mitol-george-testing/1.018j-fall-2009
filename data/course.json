@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Science",
+      "Earth Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c83a0144-a4ce-0ebb-e0ef-9572b87df77d",
+      "e996e85a-e94d-9194-2d6e-e0644dbc9b21"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Ecology I: The Earth System",
+  "course_description": "We will cover fundamentals of ecology, considering Earth as an integrated dynamic system. Topics include coevolution of the biosphere, geosphere, atmosphere and oceans; photosynthesis and respiration; the hydrologic, carbon and nitrogen cycles. We will examine the flow of energy and materials through ecosystems; regulation of the distribution and abundance of organisms; structure and function of ecosystems, including evolution and natural selection; metabolic diversity; productivity; trophic dynamics; models of population growth, competition, mutualism and predation. This course is designated as Communication-Intensive; instruction and practice in oral and written communication provided. Biology is a recommended prerequisite.\n",
+  "department_numbers": [
+    "1",
+    "7"
+  ],
+  "extra_course_numbers": "7.30J",
+  "primary_course_number": "1.018J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
